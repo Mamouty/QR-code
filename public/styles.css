@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+    font-family: Outfit;
+}
+
+body {
+    margin: 0;
+    background-color: hsl(212, 61%, 78%);
+}
