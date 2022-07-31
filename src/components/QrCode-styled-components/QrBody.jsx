@@ -5,7 +5,7 @@ import QrTitle from "./QrTitle";
 
 
 function QrBody() {
-    const Wrapper = styled.div`
+    const Card = styled.div`
     height: 520px;
     width: 330px;
     background-color: white;
@@ -15,11 +15,11 @@ function QrBody() {
     text-align: center;
     `
     return (
-        <Wrapper>
+        <Card>
            <QrImage />
            <QrTitle />
            <QrDescription />
-        </Wrapper>
+        </Card>
     );
 }
 

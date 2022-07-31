@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import QrBody from "./QrCode components/QrBody";
+import QrBody from "./QrCode-styled-components/QrBody";
 
 function QrCode() {
     const Section = styled.section`
