@@ -8,7 +8,7 @@ function QrDescription() {
         font-size: 17px;
         color: hsl(220, 15%, 55%);
     `
-    return <Text>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</Text>;
+    return <Text>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level!</Text>;
 } 
 
 export default QrDescription;
