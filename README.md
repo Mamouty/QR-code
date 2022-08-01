@@ -6,5 +6,5 @@
 
 ### Links
 
-- Solution URL: [Github repository](https://github.com/Mamouty/QR-code.git)
-- Live Site URL: []
+- Solution URL: [GitHub repository](https://github.com/Mamouty/QR-code.git)
+- Live Site URL: [GitHub Pages](https://mamouty.github.io/QR-code/)
