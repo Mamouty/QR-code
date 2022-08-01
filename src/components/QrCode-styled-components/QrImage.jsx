@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import qrimage from "../../images/image-qr-code.png";
 
 function QrImage() {
     const Image = styled.img`
@@ -6,7 +7,7 @@ function QrImage() {
     margin: 15px;
     border-radius: 3%;
     `
-    return <Image src="/images/image-qr-code.png" alt="Qr code linking to frontendmentor.io"/>
+    return <Image src={qrimage} alt="Qr code linking to frontendmentor.io"/>
     
 }
 
